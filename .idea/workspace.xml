@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0734558-fd63-4f22-9685-04de936d9b5a" name="Default" comment="dodanie biblioteki">
+    <list default="true" id="c0734558-fd63-4f22-9685-04de936d9b5a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -517,7 +517,7 @@
       <updated>1494683780827</updated>
       <workItem from="1494683784944" duration="506000" />
       <workItem from="1494684561150" duration="442000" />
-      <workItem from="1494685452333" duration="782000" />
+      <workItem from="1494685452333" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="dodanie biblioteki">
       <created>1494685864343</created>
@@ -533,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494686164181</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dodanie biblioteki">
+      <created>1494686238976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494686238976</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1730000" />
+    <option name="totallyTimeSpent" value="1736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
